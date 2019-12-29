@@ -1,4 +1,33 @@
-.icon {
-    width: 75px;
-    height: 75px;
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+    padding-top: 5rem;
+}
+
+.navbar {
+    background-color: #263f44; 
+    height: 4rem;
+}
+
+.navbar-brand {
+    position: fixed;
+    height: 4rem;
+}
+
+.navbar-collapse {
+    position: relative; 
+    width: 100%;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+}
+
+.social-icon {
+    color: whitesmoke; 
+    margin: 0;
+}
+
+.fab {
+    font-size: 2em;
 }
