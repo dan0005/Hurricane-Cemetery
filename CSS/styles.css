@@ -5,13 +5,9 @@ body {
 }
 
 .navbar {
-    background-color: #263f44; 
-    height: 4rem;
+    background-color: #263f44;
+    padding: 0.2rem 1rem;
 }
-
-/* .navbar-brand {
-    
-} */
 
 .navbar-brand-img {
     height: 3.5rem;
