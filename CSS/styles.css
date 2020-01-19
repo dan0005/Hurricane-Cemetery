@@ -31,8 +31,15 @@ body {
     font-size: 2em;
 }
 
-.cover-img {
-    width: 25rem; 
-    height: auto;
-    padding: 0% 10%;
+.jumbotron {
+    color: white;
+    background:         
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+        ),
+        /* bottom, image */
+        url("../photos/sanctuary_bw.jpg");
+    background-size: cover;
 }
