@@ -30,3 +30,9 @@ body {
 .fab {
     font-size: 2em;
 }
+
+.cover-img {
+    width: 25rem; 
+    height: auto;
+    padding: 0% 10%;
+}
