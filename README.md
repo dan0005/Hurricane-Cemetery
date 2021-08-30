@@ -1,2 +1,2 @@
 # Hurricane-Cemetery
-Information about Hurricane Cemetery in Rogersville, AL
+Static site for Hurricane Cemetery in Rogersville, AL
